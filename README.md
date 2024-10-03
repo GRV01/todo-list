@@ -1,1 +1,1 @@
-# My todo APP
+# My todo-list Project
